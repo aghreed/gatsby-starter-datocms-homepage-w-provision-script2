@@ -1,0 +1,9 @@
+{
+  "name": "Homepage Starter",
+  "description": "Homepage Starter",
+  "previewImage": "https://www.gatsbyjs.com/_gatsby/image/b055ac55c1be84282bea84b86f9c28c2/26205d6785c052f897faebf0880dcea1/Homepage-Starter-Dato.avif?u=https%3A%2F%2Fgatsbycontent.wpengine.com%2Fwp-content%2Fuploads%2F2022%2F03%2FHomepage-Starter-Dato.png&a=w%3D720%26h%3D540%26fm%3Davif%26q%3D75",
+  "livePreviewUrl": "https://gatsbydatocmshomepage.gatsbyjs.io/",
+  "repo": "aghreed/gatsby-starter-datocms-homepage:main",
+  "datocmsProjectId": "60903",
+  "deploymentType": "copyRepo"
+}
